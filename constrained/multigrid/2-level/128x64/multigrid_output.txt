@@ -1,0 +1,9 @@
+
+ Multigrid V cycle Converged in: 156 Cycles 
+ Multigrid V cycle Converged in: 52 Cycles 
+ Multigrid V cycle Converged in: 2 Cycles 
+ Multigrid V cycle Converged in: 2 Cycles 
+ Multigrid V cycle Converged in: 2 Cycles 
+ Multigrid V cycle Converged in: 2 Cycles 
+ Multigrid V cycle Converged in: 2 Cycles 
+ Multigrid V cycle Converged in: 2 Cycles 
