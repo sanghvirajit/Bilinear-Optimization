@@ -1,0 +1,4 @@
+y-yd: 419.4150548590835
+Cost function(J): 88005.69412103329
+ r_y Residual norm: 0.000963371
+ r_p Residual norm: 0.000870578
